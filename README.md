@@ -27,4 +27,4 @@ El notebook completo está exportado y disponible como un archivo Jupyter Notebo
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/iris-knn-classification.git
+   git clone https://github.com/anaBorja/Iris-Flower-Classification-with-KNN-Algorithm.git
